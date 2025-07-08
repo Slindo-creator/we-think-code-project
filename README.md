@@ -1,2 +1,1 @@
-# we-think-code-project
-my learning journey at We Think Code_
+# We thinkCode_learning Jornal
