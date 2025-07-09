@@ -1,1 +1,1 @@
-# We thinkCode_learning Jornal
+WeThinkCode_learning journal
